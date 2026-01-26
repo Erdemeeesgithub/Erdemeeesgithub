@@ -13,7 +13,7 @@
 
 <img src="https://www.reactiongifs.com/wp-content/uploads/2013/07/ralph-wave.gif" align="center" width="100%" />
 
-**Hello, I am a high school student who is living in Mongolia. I love coding. I can do a website using React, NextJs, Typescript, HTML, and applications with React Native. Currently working on my own CV and trying new challenging projects.**
+**Hello, I am a university student who is studying at NYU Shanghai. I love coding. I can do a website using React, NextJs, Typescript, HTML, and applications with React Native. Currently working on my own portfolio and trying new, challenging projects.**
 
 
 *Languages and tools:*
